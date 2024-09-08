@@ -1,0 +1,16 @@
+{
+  "name": "ynw-ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Yunow",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.16.1",
+    "msiai": "^2.1.0",
+    "uuid": "^10.0.0"
+  }
+}
